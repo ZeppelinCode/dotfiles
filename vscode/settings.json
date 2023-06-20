@@ -1,0 +1,68 @@
+{
+    "window.zoomLevel": 1,
+    "rust.mode": "legacy",
+    "rust.rustup": {
+        "toolchain": "stable-x86_64-unknown-linux-gnu"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "vim.disableAnnoyingNeovimMessage": true,
+    "rust.racerPath": "~/.cargo/bin/racer",
+    "useCodeSnippetsOnMethodSuggest": true,
+    "C_Cpp.intelliSenseEngine": "Default",
+    "go.gopath": "",
+    "window.menuBarVisibility": "default",
+    "workbench.sideBar.location": "left",
+    "workbench.activityBar.visible": false,
+    "editor.minimap.enabled": false,
+    "vim.statusBarColorControl": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "extensions.ignoreRecommendations": false,
+    "files.associations": {
+        "*.tpl": "html",
+    },
+    "vim.useCtrlKeys": false,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#005f5f",
+        "statusBar.noFolderBackground": "#005f5f",
+        "statusBar.debuggingBackground": "#005f5f"
+    },
+    "workbench.colorTheme": "Jellybeans",
+    "python.pythonPath": "/usr/bin/python3",
+    "[python]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true
+    },
+    "[go]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "golang.go"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "C_Cpp.updateChannel": "Insiders",
+    "cmake.configureOnOpen": true,
+    "cmake.cmakePath": "",
+    "emmet.includeLanguages": {
+        "elixir": "html",
+        "phoenix-heex": "html"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "elixirLS.suggestSpecs": false,
+    "elixirLS.dialyzerEnabled": true,
+    "elixirLS.signatureAfterComplete": false,
+    "elixirLS.fetchDeps": false,
+    "files.associations": {
+    "*.heex": "phoenix-heex"
+    },
+
+    "[elixir]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "JakeBecker.elixir-ls"
+    },
+    "[phoenix-heex]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "JakeBecker.elixir-ls"
+    }
+}

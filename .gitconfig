@@ -1,0 +1,8 @@
+[alias]
+  st = status
+  br = branch
+  co = checkout
+  uncommit = reset HEAD^
+
+[core]
+  editor = vim

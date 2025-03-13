@@ -25,6 +25,7 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'https://github.com/kien/ctrlp.vim.git'
+Plugin 'neoclide/coc.nvim', {'branch': 'release'}
 let g:ctrlp_map = '<C-n>'
 
 Plugin 'https://github.com/scrooloose/nerdtree.git'

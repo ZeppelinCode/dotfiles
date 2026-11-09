@@ -1,2 +1,17 @@
+theme = "light:Horizon Bright,dark:Broadcast"
+font-size = 14
+window-padding-x = 10
+window-padding-y = 10
+window-decoration = true
+adjust-cell-height = 8%
+mouse-scroll-multiplier = 2
+window-colorspace = "display-p3"
+window-padding-balance = true
+macos-titlebar-style = transparent
+background-opacity = 0.85
+background-blur = 95
 cursor-style = block
 cursor-style-blink = true
+font-feature = -dlig
+font-feature = -liga
+font-feature = -calt
